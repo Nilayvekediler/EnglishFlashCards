@@ -1,0 +1,470 @@
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.exe
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.deps.json
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.json
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.dev.json
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csprojAssemblyReference.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfoInputs.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfo.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CoreCompileInputs.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.Manifest.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.xml
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnglishFlashCardsWeb.styles.css
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.input.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.output.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorCoreGenerate.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.genruntimeconfig.cache
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CopyComplete
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Index.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Set.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\newset.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\studymode.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUser.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUserResult.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cards\updatecard.cshtml.g.cs
+C:\Users\turan\source\repos\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Folder.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csprojAssemblyReference.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfoInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CoreCompileInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.Manifest.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.xml
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnglishFlashCardsWeb.styles.css
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.input.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.output.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorCoreGenerate.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cards\updatecard.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Folder.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\newset.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Set.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\studymode.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUser.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUserResult.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.exe
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.deps.json
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.json
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.dev.json
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CopyComplete
+C:\Users\turan\OneDrive\Masaüstü\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.genruntimeconfig.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.exe
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.deps.json
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.json
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.dev.json
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csprojAssemblyReference.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfoInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CoreCompileInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.Manifest.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.xml
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnglishFlashCardsWeb.styles.css
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.input.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.output.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorCoreGenerate.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cards\updatecard.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Folder.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\newset.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Set.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\studymode.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUser.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUserResult.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CopyComplete
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.genruntimeconfig.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.exe
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.deps.json
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.json
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.dev.json
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csprojAssemblyReference.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfoInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CoreCompileInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.Manifest.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.xml
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnglishFlashCardsWeb.styles.css
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.input.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.output.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorCoreGenerate.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cards\updatecard.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Folder.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Index.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\newset.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Set.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\studymode.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUser.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUserResult.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CopyComplete
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\turan\OneDrive\Masaüstü\Gereksiz\TURANOZTURK-191816045\Proje Dosyası\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.genruntimeconfig.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.StaticWebAssets.xml
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.exe
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.deps.json
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.json
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.runtimeconfig.dev.json
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.AssemblyReference.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfoInputs.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.AssemblyInfo.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CoreCompileInputs.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorAssemblyInfo.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\staticwebassets\EnglishFlashCardsWeb.StaticWebAssets.Manifest.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.input.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.TagHelpers.output.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorCoreGenerate.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cards\updatecard.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Folder.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Index.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\newset.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\Set.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Sets\studymode.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUser.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\newUserResult.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.Views.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.csproj.CopyComplete
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.pdb
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\EnglishFlashCardsWeb.genruntimeconfig.cache
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nilya\OneDrive\Masaüstü\EnglishFlashCardsWeb\EnglishFlashCardsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Users\Hata.cshtml.g.cs

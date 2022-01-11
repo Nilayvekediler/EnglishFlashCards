@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@if (ViewBag.result == 1)
+{
+<div class="alert alert-success" role="alert" style="text-align:center;">
+    Kayıt Başarı ile Tamamlandı
+</div>
+}
+else
+{
+<div class="alert alert-danger" role="alert" style="text-align:center;">
+    Lütfen Boş Alan Bırakmayınız.
+</div>
+}

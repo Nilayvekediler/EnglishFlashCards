@@ -1,0 +1,134 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@model dynamic
+
+<div id="content" style="width:60%;">
+
+    <h3>@ViewBag.setName</h3>
+    <div id="setnameform" style="display:none">
+        <form action="/sets/setnameupdate" method="POST">
+            <div class="form-row align-items-center">
+                <div class="col-sm-3 my-1">
+                    <label class="sr-only" for="inlineFormInputName">Name</label>
+                    <input type="text" class="form-control" name="set_name" id="set_name" value="@ViewBag.setName">
+                    <input type="hidden" name="set_id" value="@ViewBag.setID" />
+                </div>
+                <div class="col-auto my-1">
+                    <button type="submit" class="btn btn-primary">Değiştir</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div id="setaddfolderform" style="display:none; margin-bottom:20px;">
+        <form action="/sets/setaddfolder" method="POST">
+            <div class="form-row align-items-center">
+                <select class="custom-select" size="3" name="folder_id">
+                    <option selected>Klasör Seçiniz</option>
+                    @foreach (var folder in @Model.folders)
+                    {
+                        <option value="@folder.folderID">@folder.folderName</option>
+                    }
+
+                </select>
+            </div>
+            <input type="hidden" value="@ViewBag.setID" name="set_id" />
+            <button type="submit">Ekle</button>
+        </form>
+    </div>
+    <div style="margin-top:20px;">
+        <a href="/sets/setdelete/@ViewBag.SetID" style="background-color: white; padding: 6px; border-radius: 5px;">Seti Sil</a>
+        <a id="setname" href="#" style="margin-left:40px; background-color:white; padding:6px; border-radius:5px;">İsim Değiştir</a>
+        <a class="addfolder" href="#" style="margin-left:40px; background-color:white; padding:6px; border-radius:5px;">Klasöre Ekle</a>
+    </div>
+
+    @if (@ViewBag.istherecard == 1)
+    {
+        <table class="table" style="margin-top:30px;">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Kelime</th>
+                    <th scope="col">Anlam</th>
+                    <th scope="col">Senaryo</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+             @{ 
+                 int i = 1;
+                 @foreach (var x in @Model.flashCards)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td>@x.word</td>
+                        <td>@x.meaning</td>
+                        <td>@x.story</td>
+                        <td><a href="/cards/updatecard/@x.cardID" role="button" aria-pressed="true">Düzenle</a></td>
+                        <td><a href="/cards/deletecard/@x.cardID" role="button" aria-pressed="true">Sil</a></td>
+                    </tr>
+                    i = i + 1;
+                }
+                 }
+
+
+            </tbody>
+        </table>
+    }
+    else {
+        <h3 style="margin:30px; margin-left:0px;">Sete Henüz Kelime Eklemediniz.</h3>
+    }
+
+    <div id="add-word" style="margin-top: 30px;">
+        <div class="card">
+            <div class="card-header">
+                Yeni Kart Ekle
+            </div>
+            <div class="card-body">
+                <form action="" method="POST">
+                    <div class="form-group">
+                        <label for="formGroupExampleInput">Kelime</label>
+                        <input type="text" name="word" class="form-control" id="formGroupExampleInput" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="formGroupExampleInput2">Anlam</label>
+                        <input type="text" name="meaning" class="form-control" id="formGroupExampleInput2" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlTextarea1">Senaryo</label>
+                        <textarea class="form-control" name="word_scenario" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary mb-2">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+    $("#setname").click(function () {
+        if ($("#setnameform").attr("style") == "") {
+            $("#setnameform").attr("style", "display:none");
+        } else {
+            $("#setnameform").attr("style", "");
+        }
+    });
+
+    $(".addfolder").click(function () {
+        if ($("#setaddfolderform").attr("style") == "") {
+            $("#setaddfolderform").attr("style", "display:none");
+        } else {
+            $("#setaddfolderform").attr("style", "");
+        }
+    });
+
+</script>
+
+

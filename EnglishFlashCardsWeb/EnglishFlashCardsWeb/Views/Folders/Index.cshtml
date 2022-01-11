@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Folder>
+
+<div style="width:900px">
+    <form action="/folders/add" method="POST">
+        <div class="form-row align-items-center">
+            <div class="col-sm-3 my-1">
+                <label class="sr-only" for="inlineFormInputName">Klasör Adı</label>
+                <input type="text" class="form-control" name="folder_name" placeholder="Set Adı">
+            </div>
+            <div class="col-auto my-1">
+                <button type="submit" class="btn btn-primary">Yeni Klasör Oluştur</button>
+            </div>
+        </div>
+    </form>
+    </div>
+
+<div style="margin-top:30px;">
+    @foreach (var x in @Model)
+    {
+        <div class="card border-warning mb-3" style="max-width: 900px;">
+            <div class="card-header">@x.setCount() Set</div>
+            <div class="card-body">
+                <h5 class="card-title">@x.folderName</h5>
+            </div>
+            <div class="card-footer">
+                <a href="/folders/folder/@x.folderID">Klasöre Git</a>
+            </div>
+        </div>
+    }
+    </div>
+
+    @if (ViewBag.istherefolder == 0) { 
+        <h3 style="margin:30px; margin-left:0px;">Henüz Klasör Oluşturmadınız.</h3>
+    }
+
+    <script>
+        $(".rename_folder").click(function () {
+            if ($(".rename_form").attr("style") == "") {
+                $(".rename_form").attr("style", "display:none");
+            } else {
+                $(".rename_form").attr("style", "");
+            }
+        });
+    </script>
+

@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model CardSet
+
+<div id="set-name" style="margin-bottom: 20px;">
+    <form>
+        <div class="form-row align-items-center">
+            <div class="col-auto">
+                <label class="sr-only" for="inlineFormInput">Name</label>
+                <input type="text" class="form-control mb-2" id="inlineFormInput" placeholder="Set Adı">
+            </div>
+        </div>
+    </form>
+</div>
+
+<div id="words">
+    <div class="card">
+        <div class="card-header">
+            Kelime
+        </div>
+        <div class="card-body">
+            <p class="card-text">Anlamı</p>
+        </div>
+    </div>
+</div>
+
+<div id="add-word" style="margin-top: 30px;">
+    <div class="card">
+        <div class="card-header">
+            Yeni Kart Ekle
+        </div>
+        <div class="card-body">
+            <form action="/setler/manager/addword">
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Kelime</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="">
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput2">Anlam</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="">
+                </div>
+                <button type="submit" class="btn btn-primary mb-2">Ekle</button>
+            </form>
+        </div>
+    </div>
+</div>

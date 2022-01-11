@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<FlashCard>
+
+
+<div id="content" style="width:50%;">
+    <div class="gallery js-flickity"
+         data-flickity-options='{ "wrapAround": true }'>
+
+        @foreach (var x in @Model)
+        {
+            <div class="gallery-cell"><h1 class="display-3" style="margin:auto;" front="@x.word" back="@x.meaning" status="front">@x.word</h1></div>
+        }
+    </div>
+</div>
+
+<script>
+    $(".display-3").click(
+        function () {
+            var status = $(this).attr("status")
+            if (status == "front") {
+                $(this).text($(this).attr("back"));
+                $(this).attr("status", "back");
+            } else {
+                $(this).text($(this).attr("front"));
+                $(this).attr("status", "front");
+            }
+        }
+    );
+ 
+</script>

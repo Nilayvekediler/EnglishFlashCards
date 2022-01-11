@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using EnglishFlashCardsWeb.Models
+@model List<CardSet>
+
+
+<div style="width:900px">
+    <form action="/sets" method="POST">
+        <div class="form-row align-items-center">
+            <div class="col-sm-3 my-1">
+                <label class="sr-only" for="inlineFormInputName">Name</label>
+                <input type="text" class="form-control" name="set_name" id="set_name" placeholder="Set Adı">
+            </div>
+            <div class="col-auto my-1">
+                <button type="submit" class="btn btn-primary">YENİ SET OLUŞTUR</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div style="margin-top:30px;">
+    <div class=".card-group">
+        @foreach (var x in Model)
+        {
+            <div class="card border-info mb-3 " style="max-width: 900px;">
+                <div class="card-header">@x.wordCount() Terim</div>
+                <div class="card-body">
+                    <h5 class="card-title">@x.setName</h5>
+                </div>
+                <div class="card-footer">
+                    <a href="/sets/set/@x.setID">Sete Git</a>
+                    <a href="/sets/studymode/@x.setID" style="margin-left:30px;">Çalışma Modu</a>
+                </div>
+            </div>
+        }
+    </div>
+    @if (ViewBag.isthereset == 0)
+    {
+        <h3>Henüz Set Oluşturmadınız.</h3>
+    }
+
+</div>
+
+
+
+
+
+

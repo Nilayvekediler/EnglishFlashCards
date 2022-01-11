@@ -1,0 +1,79 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<CardSet>
+
+
+    <h3 id="setname">@ViewBag.folderName</h3>
+    <div id="foldernameform" style="display:none">
+        <form action="/folders/foldernameupdate" method="POST">
+            <div class="form-row align-items-center">
+                <div class="col-sm-3 my-1">
+                    <label class="sr-only" for="inlineFormInputName">Name</label>
+                    <input type="text" class="form-control" name="folder_name" id="folder_name" value="@ViewBag.folderName">
+                    <input type="hidden" name="folder_id" value="@ViewBag.folderID" />
+                </div>
+                <div class="col-auto my-1">
+                    <button type="submit" class="btn btn-primary">Değiştir</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    
+    <div style="margin-top: 30px;">
+        <a href="/folders/delete/@ViewBag.folderID" style="background-color:white; padding:6px; border-radius:5px;">Sil</a>
+        <a class="rename_folder" style="margin-left:40px; background-color:white; padding:6px; border-radius:5px;">İsim Değiştir</a>
+    </div>
+
+    @if (@Model != null)
+    {
+<div style="margin-top:30px;">
+    <div class=".card-group">
+        @foreach (var x in Model)
+        {
+            <div class="card border-info mb-3 " style="max-width: 900px;">
+                <div class="card-header">@x.wordCount() Terim</div>
+                <div class="card-body">
+                    <h5 class="card-title">@x.setName</h5>
+                </div>
+
+                <div class="card-footer">
+                    <a href="/sets/set/@x.setID">Sete Git</a>
+                    <a href="/sets/studymode/@x.setID" style="margin-left:30px;">Çalışma Modu</a>
+                </div>
+
+                <form action="/sets/removefromfolder" method="post">
+                    <input type="hidden" name="folder_id" value="@ViewBag.folderID" />
+                    <input type="hidden" name="set_id" value="@x.setID" />
+                    <button type="submit">Klasörden Sil</button>
+                </form>
+
+            </div>
+        }
+    </div>
+    @if(ViewBag.isthereset == 0)
+    {
+        <h3 style="margin:30px; margin-left:0px;">Klasör Boş</h3>
+    }
+</div>
+    }
+
+
+   
+
+<script>
+
+    $(".rename_folder").click(function () {
+        if ($("#foldernameform").attr("style") == "") {
+            $("#foldernameform").attr("style", "display:none");
+        } else {
+            $("#foldernameform").attr("style", "");
+        }
+    });
+
+</script>
+
+

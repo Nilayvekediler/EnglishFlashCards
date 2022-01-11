@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div id="add-word" style="margin-top: 30px;">
+    <div class="card">
+        <div class="card-header">
+            Kart Düzenle
+        </div>
+        <div class="card-body">
+            <form action="" method="POST">
+                <div class="form-group">
+                    <label for="formGroupExampleInput">Kelime</label>
+                    <input type="text" name="word" class="form-control" id="formGroupExampleInput" value="@ViewBag.word">
+                </div>
+                <div class="form-group">
+                    <label for="formGroupExampleInput2">Anlam</label>
+                    <input type="text" name="meaning" class="form-control" id="formGroupExampleInput2" value="@ViewBag.meaning">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Senaryo</label>
+                    <textarea class="form-control" name="word_scenario" id="exampleFormControlTextarea1" rows="3">@ViewBag.word_scenario</textarea>
+                </div>
+                <input type="hidden" name="card_id" value="@ViewBag.card_id" />
+                <input type="hidden" name="set_id" value="@ViewBag.set_id" />
+                <button type="submit" class="btn btn-primary mb-2">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>
